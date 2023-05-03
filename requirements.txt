@@ -1,0 +1,8 @@
+jupyterlab
+jupyterlab-lsp
+python-lsp-server[all]
+tensorflow==2.10.0
+tensorflow_text==2.10.0
+tensorflow_hub
+pandas
+numpy

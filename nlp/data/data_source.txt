@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis?resource=download
+https://www.kaggle.com/datasets/mazlumi/mbti-personality-type-twitter-dataset
